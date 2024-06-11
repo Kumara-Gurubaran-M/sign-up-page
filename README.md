@@ -19,7 +19,7 @@ The Sign Up Form is a basic web form designed to capture user information such a
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/signup-form.git
+git clone https://github.com/Kumara-Gurubaran-M/sign-up-page.git
 ```
 2. Open the index.html file in your web browser to view and interact with the form.
 
