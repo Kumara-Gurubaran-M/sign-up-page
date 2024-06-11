@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/signup-form.git
 
 5. Alternatively, you can log in if you already have an account by clicking the "Login" link below the form.
 
-#Project Structure
--index.html: Main HTML file containing the structure of the sign-up form.
--style.css: Stylesheet containing the CSS rules for styling the form and its components.
--script.js: JavaScript file containing the logic for form validation and submission.
+## Project Structure
+- index.html: Main HTML file containing the structure of the sign-up form.
+- style.css: Stylesheet containing the CSS rules for styling the form and its components.
+- script.js: JavaScript file containing the logic for form validation and submission.
